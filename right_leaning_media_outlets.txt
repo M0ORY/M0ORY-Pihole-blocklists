@@ -34,3 +34,5 @@
 0.0.0.0 www.dailywire.com
 0.0.0.0 breitbart.com
 0.0.0.0 www.breitbart.com
+0.0.0.0 hannity.com
+0.0.0.0 www.hannity.com

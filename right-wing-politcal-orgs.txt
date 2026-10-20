@@ -37,6 +37,8 @@
 0.0.0.0 uup.org
 0.0.0.0 www.uup.org
 0.0.0.0 ukvpp.org
+0.0.0.0 english-defence-league.org
+0.0.0.0 www.english-defence-league.org
 0.0.0.0 gop.com
 0.0.0.0 www.gop.com
 0.0.0.0 homelandparty.org
